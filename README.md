@@ -10,9 +10,6 @@
 
 [Click Here For Demo](https://sad-shirley-6ef62f.netlify.app/)
 
-`Username : yogi15moto@gmail.com`
-`password : yogesh`
-
 ## SCREENSHOTS
 
 #### Mobile Views
@@ -32,9 +29,6 @@
 
 #### Saving Goals Night Mode
 [![Savings](https://i.postimg.cc/WbBNpX8h/SAVINGS-NIGHT-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
-
-#### Settings Night Mode
-[![Settings](https://i.postimg.cc/CLBMVWj3/SETTINGS-NIGHT-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
 
 #### Filter Night Mode
 [![Filter Page](https://i.postimg.cc/kM2rDJ8Y/FILTER-NIGHT-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
