@@ -51,9 +51,6 @@
 #### Saving Goals Day Mode
 [![Savings](https://i.postimg.cc/fRYwVmq5/SAVINGS-DAY-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
 
-#### Settings Day Mode
-[![Settings](https://i.postimg.cc/59k9TxF5/SETTINGS-DAY-MODE.png)](https://sad-shirley-6ef62f.netlify.com/)
-
 #### Login Screen
 [![Login Page](https://s25.postimg.cc/jvolgx1tb/login.png)](https://sad-shirley-6ef62f.netlify.com/)
 
@@ -151,6 +148,5 @@ By default, the generated project uses the latest version of React.
 You can refer [to the React documentation](https://reactjs.org/docs/react-dom.html#browser-support) for more information about supported browsers.
 
 ## Team Members
-
-Mushkan Agarwal
-Vaansh Dixit
+-Mushkan Agarwal
+-Vaansh Dixit
